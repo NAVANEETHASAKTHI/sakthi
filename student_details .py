@@ -1,0 +1,2 @@
+data="abi"
+print(data)
